@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pristyle-il.netlify.app/sitemap.xml
